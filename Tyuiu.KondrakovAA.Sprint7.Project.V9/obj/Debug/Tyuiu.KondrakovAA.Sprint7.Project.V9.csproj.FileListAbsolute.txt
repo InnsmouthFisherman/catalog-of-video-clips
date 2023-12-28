@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\bin\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.exe.config
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\bin\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\bin\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\bin\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.Lib.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\bin\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\obj\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\obj\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.FormMain_KAA.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\obj\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.Properties.Resources.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\obj\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\obj\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\obj\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\obj\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\obj\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\obj\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.FormAbout_KAA.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\obj\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.FormSaveFile_KAA.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint7\Tyuiu.KondrakovAA.Sprint7.Project.V9\obj\Debug\Tyuiu.KondrakovAA.Sprint7.Project.V9.FormStats_KAA.resources
